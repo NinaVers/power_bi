@@ -1,6 +1,6 @@
 # Relatório de Vendas Elegante com Power BI 📑
 
-Desafio de projeto da DIO de criar um relatório com o Power BI.
+Resolução do desafio de projeto da DIO de criar um relatório com o **Power BI**.
 
 ## Principais etapas: 
 
