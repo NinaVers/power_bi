@@ -30,7 +30,14 @@ Exclusão de linhas e colunas com valores nulos:
 ![image](https://github.com/NinaVers/power_bi/assets/113388259/739176fa-e5ae-4fae-89ce-4a8371e42bf5)
 
 
-Posteriormente aos ajustes conforme descrito no passo a passo do projeto, foi criado o relatório:
+Posteriormente aos ajustes no dataset conforme descrito no passo a passo do projeto, foi criado o relatório:
+
+<img width="583" alt="image" src="https://github.com/NinaVers/power_bi/assets/113388259/f901d0a4-a59e-41f8-af41-94457fbe7adb">
+<img width="579" alt="image" src="https://github.com/NinaVers/power_bi/assets/113388259/21e77c7c-f640-4253-bf96-51b975b4b45a">
+<img width="580" alt="image" src="https://github.com/NinaVers/power_bi/assets/113388259/d28c2d2d-7824-4e8d-aaf0-47c4eef75f06">
+
+
+
 
 
 
